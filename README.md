@@ -1,2 +1,2 @@
 # Analysis-on-Dolphin-Social-Network
-Graph Analysis case study on Dolphin social network using gephi
+Graph Analysis on Dolphin social network through various centralities and other network statistics using the tool gephi
